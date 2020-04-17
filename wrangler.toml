@@ -1,0 +1,6 @@
+name = "cumulonimbus"
+type = "javascript"
+account_id = "3b21b91dd8a9b738e32edea77ea3fd13"
+workers_dev = true
+route = ""
+zone_id = ""
